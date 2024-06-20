@@ -1,0 +1,99 @@
+# 即刻
+- title: 浮生若梦，为欢几何？
+  subTitle: 弃我去者，昨日之日不可留；乱我心者，今日之日多烦忧
+  tips: 随时随地，分享生活
+  buttonText: 关于我
+  buttonLink: /about/
+  limit: 30
+  home_essay: true
+  top_background: "/imgs/default/cover4.webp"
+  essay_list:
+    - content: 永日不可暮，炎蒸毒我肠。安得万里风，飘飖吹我裳。-杜甫《夏夜叹》
+      date: 2023/07/04 22:23:01
+      image:
+        - https://www.todaybing.com/api/today/cn
+        
+    - content: 大鹏一日同风起，扶摇直上九万里。
+      date: 2023/07/02 18:12:10
+      image:
+        - http://imgapi.xl0408.top/index.php
+
+    - content: '黄梅雨
+清代 ： 秦廷璧
+江南梅熟雨纷纷，门巷深沉羃湿云。天上阴晴无一定，人间寒煖若平分。
+阶前草色都含雾，窗外花光时带曛。到处鸠声啼不断，何人绿野刈耕勤。'
+      date: 2023/06/19 09:10:33
+      aplayer:
+        server: tencent
+        id: 000YkWcp1hJLdZ
+      image:
+        - /imgs/bg-main.webp
+        - https://api.btstu.cn/sjbz/api.php?lx=fengjing&format=images
+        - https://api.btstu.cn/sjbz/api.php?lx=suiji&format=images
+        - https://api.btstu.cn/sjbz/api.php?lx=dongman&format=images
+
+
+    - content: 杨一笑殁，葬云梦泽西鹿鸣山，其碑志曰：初从文，三年不中；后习武，校场发一矢，中鼓吏，逐之出；遂学医，有所成。自撰一良方，服之，卒。
+      date: 2023/06/08 17:22:33
+      aplayer:
+        server: tencent
+        id: 000kfFVO09uRDB
+      image:
+        - https://tool.lu/netcard/
+
+    - content: 乘风破浪会有时，直挂云帆济沧海
+      date: 2023/06/07 09:22:33
+      aplayer:
+        server: tencent
+        id: 0029zGu12WGLsE
+      image:
+        - /imgs/default/cover.webp
+
+    - content: 五湖四海倾盆覆，颠倒人间万里路
+      date: 2023/05/27 11:22:33
+      aplayer:
+        server: tencent
+        id: 002Jl7Xu4MDO1M
+      image:
+        - /imgs/default/cover.webp
+
+    - content: 人有悲欢离合，月有阴晴圆缺
+      date: 2023/05/23
+      aplayer:
+        server: tencent
+        id: 004UdjVH2eavBG
+
+    - content: Hello World !
+      date: 2023/05/08
+      link: https://geekswg.js.cool/
+
+    - content: Hello Hexo !
+      date: 2023/04/28
+    
+    - content: 今朝有酒今朝醉，明日愁来明日愁
+      date: 2022/10/23 10:00:00
+      image:
+        - /imgs/t1.webp
+        - /imgs/t2.webp
+        - /imgs/bg-main.webp
+        - /imgs/bg-waline.webp
+
+    - content: 誰家玉笛暗飛声，散入春風満洛城
+      date: 2020/01/01
+      aplayer:
+        server: tencent
+        id: 001yIhZy198tMN
+
+    - content: "《将进酒》 作者：李白  君不见，黄河之水天上来，奔流到海不复回。 \n 君不见，高堂明镜悲白发，朝如青丝暮成雪。\n 人生得意须尽欢，莫使金樽空对月。 天生我材必有用，千金散尽还复来。 烹羊宰牛且为乐，会须一饮三百杯。 岑夫子，丹丘生，将进酒，杯莫停。 与君歌一曲，请君为我倾耳听。 钟鼓馔玉不足贵，但愿长醉不复醒。 古来圣贤皆寂寞，惟有饮者留其名。 陈王昔时宴平乐，斗酒十千恣欢谑。 主人何为言少钱，径须沽取对君酌。 五花马，千金裘，呼儿将出换美酒，与尔同销万古愁。"
+      date: 2010/01/01
+      image:
+        - /imgs/t2.webp
+      aplayer:
+        server: tencent
+        id: 001yIhZy198tMN
+    
+    - content: 歌曲推荐
+      date: 2022/09/25
+      aplayer:
+        server: tencent
+        id: 003XxY5O2E0kay

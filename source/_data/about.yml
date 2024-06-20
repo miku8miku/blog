@@ -1,0 +1,156 @@
+- class_name: About
+  subtitle: 毕少侠也在江湖 ✨ 人生若只如初见
+  avatarImg: https://cdn.staticaly.com/gh/geekswg/static@main/web/avatar.webp
+  avatarSkills:
+    left:
+      - 🤖️ 数码科技爱好者
+      - 🔍 分享与热心帮助
+      - 🏠 智能家居小能手
+      - 🔨 设计开发一条龙
+    right:
+      - 专修交互与设计 🤝
+      - 脚踏实地行动派 🏃
+      - 团队小组发动机 🧱
+      - 壮汉人狠话不多 💢 
+  name: 毕十三
+  description: “是一名 游荡于 互联网 的 独行侠，喜欢 编程，擅长各种 Ctrl [C-V] 编程。”
+  aboutsiteTips:
+    tips: 毕少侠也在江湖
+    title1: Talk is Cheap
+    title2: Show Me the Code 
+    word:
+      - 学习 - Studying
+      - 生活 - Living
+      - 程序 - Coding
+      - 分享 - Sharing
+  helloAbout: Hello World
+  
+  skillsTips:
+    tips: 技能
+    title: Java是世界上最好的语言
+  careers:
+    tips: 生涯
+    title: 学海无涯，回头是岸
+    item:
+      - EDU,软件工程专业
+      - EDU,计算机软件
+      - EDU,AI人工智能
+    img: /imgs/about-edu.png
+    list:
+      - time: 2015
+        desc: 软件工程专业
+      - time: 2017
+        desc: 软件工程专业
+      - time: 2020
+        desc: AI人工智能
+
+  statistic:
+    link: /archives/
+    text: 春诵夏弦
+    cover: /imgs/default/tm.png
+
+  map:
+    title: 男儿马上志四海，不是寻常客子心
+    StrengthenTitle: 中华，神州大地
+    background: /imgs/t.png
+    backgroundDark: /imgs/default/tm2.png
+  selfInfo:
+    selfInfoTips1: 生于
+    selfInfoContentYear: 1921
+    selfInfoTips2: 互联网社会大学
+    selfInfoContent2: 👨‍🎓社会学
+    selfInfoTips3: 现在职业
+    selfInfoContent3:  ITer
+
+  personalities:
+    author_name: 提倡者
+    personality_type: INFJ-T
+    photo_url: /imgs/t.png # 个人照片
+    personality_img: https://www.16personalities.com/static/images/personality-types/avatars/infj-advocate.svg
+    name_url: https://www.16personalities.com/ch/infj-%E4%BA%BA%E6%A0%BC
+  
+  maxim:
+    maxim_tips: 路漫漫其修远兮，吾将上下而求索
+    maxim_top: 往者不可谏，
+    maxim_bottom: 来者犹可追。
+
+  buff:
+    buff_tips: 特长 - 天生我材必有用
+    buff_top: 人生得意须尽欢
+    buff_bottom: 我辈岂是蓬蒿人
+
+  game:
+    game_tips: 游戏 - 斯人定何人，游戏得自在
+    game_title: 使命召唤19-战争地带2.0(COD19-WarZone2.0)
+    game_uid: "geekswg#123456"
+    game_bg: https://jsd.cdn.zzko.cn/gh/geekswg/static@main/blog-img/cod19/wz2.jpeg
+
+  comic:
+    comic_tips: 读孙子兵法
+    comic_title: 品启强人生
+    comic_list:
+      - name: 三体
+        href: https://www.bilibili.com/bangumi/play/ss26257?spm_id_from=333.337.0.0
+        cover: https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2885057891.webp #/imgs/t1.webp
+      - name: 三体
+        href: https://www.bilibili.com/bangumi/play/ss26257?spm_id_from=333.337.0.0
+        cover: https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2885057891.webp #/imgs/t1.webp
+      - name: 三体
+        href: https://www.bilibili.com/bangumi/play/ss26257?spm_id_from=333.337.0.0
+        cover: https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2885057891.webp #/imgs/t1.webp
+      - name: 三体
+        href: https://www.bilibili.com/bangumi/play/ss26257?spm_id_from=333.337.0.0
+        cover: https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2885057891.webp #/imgs/t1.webp
+      - name: 三体
+        href: https://www.bilibili.com/bangumi/play/ss26257?spm_id_from=333.337.0.0
+        cover: https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2885057891.webp #/imgs/t1.webp
+      - name: 三体
+        href: https://www.bilibili.com/bangumi/play/ss26257?spm_id_from=333.337.0.0
+        cover: https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2885057891.webp #/imgs/t1.webp
+      
+
+  like:
+    like_tips: 偏好 - 爱好文雅，广延诗赋，以知得失。
+    like_title: "\n曾经沧海难为水，除却巫山不是云。\n\n 取次花丛懒回顾，半缘修道半缘君。"
+    like_bg: /imgs/default/cover1.png
+    like_bottom: 焚香、对弈、品茗、听雨、赏雪、候月、酌酒、莳花、寻幽、抚琴
+
+  music:
+    music_tips: 音乐 - 高山流水遇知音,彩云追月得知己
+    music_title: 此曲只应天上有，人间能得几回闻。
+    music_bg: /imgs/default/cover2.png
+    music_link: /music/?id=8138088068&server=tencent
+
+# 打赏列表  
+  reward_list:
+    - name: 毕十一
+      amount: 1000
+      datatime: 2022-08-19
+      suffix: 元
+    
+    - name: 毕十二
+      amount: 12
+      datatime: 2022-08-19
+      suffix:  亿
+
+    - name: 毕十三
+      amount: 13
+      datatime: 2023-04-10
+      suffix: 万
+
+    - name: 毕十四
+      amount: 14
+      datatime: 2023-04-10
+      suffix: 贝壳
+    
+    - name: 毕十五
+      amount: 66
+      datatime: 2023-04-10
+      suffix: 贝壳
+      
+    - name: 毕十六
+      amount: 1
+      datatime: 2023-04-10
+      suffix: 个小目标
+
+  extra: false

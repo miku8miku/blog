@@ -1,0 +1,126 @@
+
+- class_name: Demo1-Type1-样式1
+  path_name: /album/album-1
+  type: 1
+  description: 君不见黄河之水天上来，奔流到海不复回。🌇。
+  cover: /imgs/default/tm.png
+  top_background: /imgs/default/tm.png
+  
+  album_list:
+    - date: 2022/05/20 01:00:00
+      content: 君不见高堂明镜悲白发，朝如青丝暮成雪。
+      address: 华夏 - 神州大地
+      from: XiaoMi MIUI-DEV
+      image:
+        - https://cdn.staticaly.com/gh/geekswg/static@main/imgs/qsmy/qsmy-15.webp
+        - https://cdn.staticaly.com/gh/geekswg/static@main/imgs/qsmy/qsmy-16.webp
+        - https://cdn.staticaly.com/gh/geekswg/static@main/imgs/qsmy/qsmy-17.webp
+        - https://cdn.staticaly.com/gh/geekswg/static@main/imgs/qsmy/qsmy-18.webp
+  
+    - date: 2023-05-10
+      content: 人生得意须尽欢，莫使金樽空对月。
+      address: 华夏 - 神州大地
+      from: RedMi MIUI14
+      image:
+        - https://cdn.staticaly.com/gh/geekswg/static@main/imgs/qsmy/qsmy-12.webp
+        - https://cdn.staticaly.com/gh/geekswg/static@main/imgs/qsmy/qsmy-13.webp
+        - https://cdn.staticaly.com/gh/geekswg/static@main/imgs/qsmy/qsmy-14.webp
+        
+        - https://cdn.staticaly.com/gh/geekswg/static@main/imgs/qsmy/qsmy-19.webp
+    - date: 2022/10/26 01:00:00
+      content: 天生我材必有用，千金散尽还复来。
+      address: 华夏 - 神州大地
+      from: From1 - from
+      image:
+        - https://cdn.staticaly.com/gh/geekswg/static@main/imgs/qsmy/qsmy-20.webp
+        - https://cdn.staticaly.com/gh/geekswg/static@main/imgs/qsmy/qsmy-21.webp
+        - https://cdn.staticaly.com/gh/geekswg/static@main/imgs/qsmy/qsmy-22.webp
+
+    - date: 2022-10-25
+      content: 明月几时有，把酒问青天。
+      address: 中华 - 神州
+      from: HuaWei HarmonyOS 3
+      image:
+        - /imgs/t1.webp
+        - /imgs/t2.webp
+        - /imgs/404.gif
+
+- class_name: Demo-样式2
+  path_name: /album/album-2
+  type: 2
+  description: Album-Demo-Type2 - description。
+  cover: /imgs/default/tm2.png
+  top_background: /imgs/default/tm.png
+  rowHeight: 220
+  limit: 10
+  lazyload: true
+  btnLazyload: false
+  url: false
+  album_list:
+    - date: 2022-10-24
+      content: 　不知天上宫阙，今夕是何年?
+      address: 中华 - 神州
+      from: HuaWei HarmonyOS 2
+      image:
+        - /imgs/t1.webp
+        - /imgs/bg-main.webp
+    - date: 2022-10-24
+      content: 我欲乘风归去，又恐琼楼玉宇，高处不胜寒。
+      address: 中华 - 神州
+      from: HuaWei HarmonyOS 3.1
+      image:
+        - https://cdn.staticaly.com/gh/geekswg/static@main/imgs/qsmy/qsmy-6.webp
+        - https://cdn.staticaly.com/gh/geekswg/static@main/imgs/qsmy/qsmy-7.webp
+        - https://cdn.staticaly.com/gh/geekswg/static@main/imgs/qsmy/qsmy-8.webp
+        - https://cdn.staticaly.com/gh/geekswg/static@main/imgs/qsmy/qsmy-9.webp
+        - https://cdn.staticaly.com/gh/geekswg/static@main/imgs/qsmy/qsmy-10.webp
+        - https://cdn.staticaly.com/gh/geekswg/static@main/imgs/qsmy/qsmy-11.webp
+
+- class_name: Demo3-Type2-样式2
+  path_name: /album/album-3
+  type: 2
+  description: 大江东去，浪淘尽，千古风流人物。
+  cover: /imgs/default/cover3.png
+  top_background: /imgs/bg-main.webp
+  rowHeight: 220
+  limit: 10
+  lazyload: true
+  btnLazyload: true
+  url: false
+  album_list:
+    - date: 2023-05-24
+      content: 江山如画，一时多少豪杰!
+      address: 中华 - 五湖四海
+      from: Mobile - Android13
+      image:
+        - /imgs/t1.webp
+        - /imgs/bg-main.webp
+    - date: 2022-10-24
+      content: 羽扇纶巾，谈笑间，樯橹灰飞烟灭。
+      address: 华夏 - 神州大地
+      from:  IPHONEX
+      image:
+        - https://cdn.staticaly.com/gh/geekswg/static@main/imgs/qsmy/qsmy-1.webp
+        - https://cdn.staticaly.com/gh/geekswg/static@main/imgs/qsmy/qsmy-2.webp
+        - https://cdn.staticaly.com/gh/geekswg/static@main/imgs/qsmy/qsmy-3.webp
+        - https://cdn.staticaly.com/gh/geekswg/static@main/imgs/qsmy/qsmy-4.webp
+        - https://cdn.staticaly.com/gh/geekswg/static@main/imgs/qsmy/qsmy-5.webp
+
+- class_name: 秦时明月-无样式-md原生
+  path_name: /album/album-4
+  type: 2
+  description: 如果提出的问题本来就有问题，那答案又有什么意义呢。
+  cover: /imgs/default/tm.png
+  rowHeight: 220
+  limit: 10
+  lazyload: true
+  btnLazyload: true
+  url: false
+  album_list:
+    - date: 2023-05-28 12::13:14
+      content: 弱者总是喜欢用借口来掩饰自己的懦弱
+      image:
+        - /imgs/t1.webp
+        - /imgs/bg-main.webp
+        - https://cdn.staticaly.com/gh/geekswg/static@main/imgs/qsmy/qsmy-23.webp
+
