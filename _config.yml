@@ -5,18 +5,18 @@
 theme: anzhiyu
 
 # Site
-title: 毕少侠
-subtitle: '毕少侠也在江湖'
-description: '毕少侠也在江湖-description'
-keywords: ['geekswg','毕少侠','毕少侠也在江湖','hexo','独行侠']
-author: 毕少侠
+title: miku8miku
+subtitle: 'kb也在江湖'
+description: 'kb也在江湖-description'
+keywords: ['geekswg','kb','kb也在江湖','hexo','独行侠']
+author: 王凯博
 language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 # https://geekswg-hexo.netlify.app
-url: https://hexo.geekswg.top
+url: https://miku8miku.github.io/blog
 # :hash/ 短链接，posts文章无法引用相对路径的图片。
 # https://github.com/rozbo/hexo-abbrlink
 # abbrlink config
