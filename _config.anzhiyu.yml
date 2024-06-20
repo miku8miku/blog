@@ -1,6 +1,6 @@
 menu:
 
-  🏠: https://home.geekswg.top/ || anzhiyu-icon-link
+  🏠: https://miku8miku.github.io/miku8miku/ || anzhiyu-icon-link
 
   # AI:
   #   自建ChatGPT: http://chatgpt.geekswg.top/ || anzhiyu-icon-link
@@ -21,8 +21,8 @@ menu:
     标签: /tags/ || anzhiyu-icon-tags
     统计: /charts/ || fa-solid fa-chart-pie fa-spin
     文档: /anzhiyu-docs/ || anzhiyu-icon-book
-    博客-Hugo: https://geekswg.top || anzhiyu-icon-link
-    博客-Hexo: https://hexo.geekswg.top || anzhiyu-icon-link
+    
+
 
   #友链:
   #  友人帐: /link/ || anzhiyu-icon-link
@@ -37,7 +37,7 @@ menu:
     说说: /essay/ || anzhiyu-icon-lightbulb
     相册集: /album/ || anzhiyu-icon-images
     小空调: /air-condition/ || anzhiyu-icon-fan
-    #追番页: /bangumis/ || anzhiyu-icon-bilibili
+    # 追番页: /bangumis/ || anzhiyu-icon-bilibili
   
   音乐: /music/?id=8138088068&server=tencent || anzhiyu-icon-music
 

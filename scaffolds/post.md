@@ -8,7 +8,7 @@ categories: demo
 tags:
   - 示例
   - demo
-keywords: [geekswg,毕少侠,hexo]
+keywords: [geekswg,kb,hexo]
 ai:
   - {{ title }}
 #password: 1234

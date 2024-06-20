@@ -5,10 +5,10 @@
 theme: anzhiyu
 
 # Site
-title: miku8miku
-subtitle: 'kb也在江湖'
-description: 'kb也在江湖-description'
-keywords: ['geekswg','kb','kb也在江湖','hexo','独行侠']
+title: KB
+subtitle: "KB's blog"
+description: 'KB的博客-description'
+keywords: ['geekswg','kb','KB的博客','hexo']
 author: 王凯博
 language: zh-CN
 timezone: ''
