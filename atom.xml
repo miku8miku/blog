@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>miku8miku</title>
+  <title>KB</title>
   <icon>https://miku8miku.github.io/blog/imgs/avatar.webp</icon>
-  <subtitle>kb也在江湖</subtitle>
+  <subtitle>KB&#39;s blog</subtitle>
   <link href="https://miku8miku.github.io/blog/atom.xml" rel="self"/>
   
   <link href="https://miku8miku.github.io/blog/"/>

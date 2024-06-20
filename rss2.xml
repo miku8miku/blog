@@ -3,18 +3,18 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>miku8miku</title>
+    <title>KB</title>
     <link>https://miku8miku.github.io/blog/</link>
     
     <image>
       <url>https://miku8miku.github.io/blog/imgs/avatar.webp</url>
-      <title>miku8miku</title>
+      <title>KB</title>
       <link>https://miku8miku.github.io/blog/</link>
     </image>
     
     <atom:link href="https://miku8miku.github.io/blog/rss2.xml" rel="self" type="application/rss+xml"/>
     
-    <description>kb也在江湖-description</description>
+    <description>KB的博客-description</description>
     <pubDate>Fri, 30 Jun 2023 13:36:59 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
