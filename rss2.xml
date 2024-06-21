@@ -3,12 +3,12 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>KB</title>
+    <title>KB的小破站</title>
     <link>https://miku8miku.github.io/blog/</link>
     
     <image>
       <url>https://miku8miku.github.io/blog/imgs/avatar.webp</url>
-      <title>KB</title>
+      <title>KB的小破站</title>
       <link>https://miku8miku.github.io/blog/</link>
     </image>
     
