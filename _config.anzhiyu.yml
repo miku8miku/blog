@@ -24,16 +24,16 @@ menu:
     
 
 
-  #友链:
-  #  友人帐: /link/ || anzhiyu-icon-link
-  #  朋友圈: /fcircle/ || anzhiyu-icon-artstation
-  #  留言板: /comments/ || anzhiyu-icon-envelope
+  友链:
+   友人帐: /link/ || anzhiyu-icon-link
+   朋友圈: /fcircle/ || anzhiyu-icon-artstation
+   留言板: /comments/ || anzhiyu-icon-envelope
 
   我的:
-    #About: /about/ || anzhiyu-icon-paper-plane
-    友人帐: /link/ || anzhiyu-icon-link
-    朋友圈: /fcircle/ || anzhiyu-icon-artstation
-    留言板: /guestbook/ || anzhiyu-icon-envelope
+    # About: /about/ || anzhiyu-icon-paper-plane
+    # 友人帐: /link/ || anzhiyu-icon-link
+    # 朋友圈: /fcircle/ || anzhiyu-icon-artstation
+    # 留言板: /guestbook/ || anzhiyu-icon-envelope
     说说: /essay/ || anzhiyu-icon-lightbulb
     相册集: /album/ || anzhiyu-icon-images
     小空调: /air-condition/ || anzhiyu-icon-fan
@@ -41,13 +41,17 @@ menu:
   
   音乐: /music/?id=8138088068&server=tencent || anzhiyu-icon-music
 
-  🌐: /sites/all-sites || anzhiyu-icon-shoe-prints1
+  # 🌐: /sites/all-sites || anzhiyu-icon-shoe-prints1
+
+
   #关于:
   #  关于本人: /about/ || anzhiyu-icon-paper-plane
   #  闲言碎语: /essay/ || anzhiyu-icon-lightbulb
   #  随便逛逛: javascript:toRandomPost() || anzhiyu-icon-shoe-prints1  
 
-  🧑‍💻: /about/ || anzhiyu-icon-shoe-prints1
+  🌐: /about/ || anzhiyu-icon-shoe-prints1
+
+
 
 # nav相关配置 
 nav:
@@ -55,20 +59,20 @@ nav:
   travelling: true
   clock: true  # 左上角天气挂件开关
   menu:
-    - title: 站点
-      item:
-        - name: 个人主页
-          link: https://home.geekswg.top/
-          icon: /imgs/avatar.webp #  /img/favicon.png
-        - name: 个人导航
-          link: https://nav.geekswg.top/
-          icon: /imgs/avatar.webp #  /img/favicon.png
-        - name: 博客-Hugo
-          link: https://geekswg.js.cool/
-          icon: /imgs/avatar.webp #  /img/favicon.png
-        - name: 博客-Hexo
-          link: http://hexo.geekswg.top/
-          icon: /imgs/avatar.webp
+    # - title: 站点
+    #   item:
+    #     - name: 个人主页
+    #       link: https://home.geekswg.top/
+    #       icon: /imgs/avatar.webp #  /img/favicon.png
+    #     - name: 个人导航
+    #       link: https://nav.geekswg.top/
+    #       icon: /imgs/avatar.webp #  /img/favicon.png
+    #     - name: 博客-Hugo
+    #       link: https://geekswg.js.cool/
+    #       icon: /imgs/avatar.webp #  /img/favicon.png
+    #     - name: 博客-Hexo
+    #       link: http://hexo.geekswg.top/
+    #       icon: /imgs/avatar.webp
     - title: 常用网址
       item:
         - name: 在线工具
@@ -123,11 +127,11 @@ copy:
 # formal:
 #   icon: link || the description || Animation
 social:
-  Github: https://github.com/geekswg || anzhiyu-icon-github
-  Email: mailto://geekswg@qq.com || anzhiyu-icon-envelope
+  Github: https://github.com/miku8miku || anzhiyu-icon-github
+  Email: mailto://943627029@qq.com || anzhiyu-icon-envelope
   #RSS: atom.xml || anzhiyu-icon-rss
-  #BiliBili: https://space.bilibili.com/39865904 || anzhiyu-icon-bilibili
-  QQ: tencent://Message/?Uin=1101303970&amp;websiteName=local.edu.com:8888=&amp;Menu=yes || anzhiyu-icon-qq
+  BiliBili: https://space.bilibili.com/32088873 || anzhiyu-icon-bilibili
+  # QQ: tencent://Message/?Uin=1101303970&amp;websiteName=local.edu.com:8888=&amp;Menu=yes || anzhiyu-icon-qq
 # 作者状态
 author_status:
   enable: true
@@ -136,7 +140,7 @@ author_status:
   # fallback_src: https://github.githubassets.com/images/icons/emoji/unicode/270d.png
   # text: on Studying
   # 可以是任何图片，建议放表情包或者emoji图片，效果都很好，[表情包速查](https://emotion.xiaokang.me/)
-  statusImg: "https://bu.dusays.com/2023/08/24/64e6ce9c507bb.png"
+  statusImg: "https://bu.dusays.com/2021/01/15/0d01983ac5127.png"
   skills:
     - 🤖️ 数码科技爱好者
     - 🔍 分享与热心帮助
@@ -144,8 +148,7 @@ author_status:
     - 🔨 设计开发一条龙
     - 🤝 专修交互与设计
     - 🏃 脚踏实地行动派
-    - 🧱 团队小组发动机
-    - 💢 壮汉人狠话不多
+
 
 # search (搜索)
 # see https://butterfly.js.org/posts/ceeb73f/#搜索系统
@@ -190,7 +193,7 @@ favicon: /favicon.ico
 # Avatar (头像)
 avatar:
   img: /imgs/avatar.webp
-  effect: false  # 头像一直旋转
+  effect: true  # 头像一直旋转
 
 # Disable all banner image
 disable_top_img: false
@@ -329,7 +332,7 @@ toc:
   style_simple: false # for post
 # 文章版权信息
 post_copyright:
-  enable: true
+  enable: false
   decode: true
   author_href: https://geekswg.js.cool
   location: 神州大地
@@ -344,7 +347,7 @@ post_copyright:
 #打赏信息
 # Sponsor/reward
 reward:
-  enable: true
+  enable: false
   coinAudio: /imgs/reward/aowu.m4a
   QR_code:
     - img: /imgs/reward/alipay.webp
@@ -360,7 +363,7 @@ post_edit:
   enable: true
   # url: https://github.com/user-name/repo-name/edit/branch-name/subdirectory-name/
   # For example: https://github.com/jerryc127/butterfly.js.org/edit/main/source/
-  url:  https://github.com/gavinblog/blog-anzhiyu/edit/master/source/
+  url:  https://github.com/miku8miku/blog/edit/master/source/
 
 # Related Articles 相关文章推荐
 related_post:
@@ -555,11 +558,11 @@ crisp:
 footer:
   owner:
     enable: true
-    since: 2006
+    since: 2024
   custom_text:  # CopyRight @ geekswg 2006 ~ Now
   runtime:
     enable: true
-    launch_time: 01/02/2006 15:04:05 # 网站上线时间 go2006-01-02 03:04:05
+    launch_time: 06/20/2024 15:04:05 # 网站上线时间 go2006-01-02 03:04:05
     work_img: /imgs/gif/cat.gif
     #https://npm.elemecdn.com/anzhiyu-blog@2.0.4/img/badge/安知鱼-上班摸鱼中.svg
     work_description: 但行好事，莫问前程
@@ -1035,7 +1038,7 @@ busuanzi:
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
   enable: true
-  publish_date: 01/02/2006 15:04:05
+  publish_date: 06/20/2024 15:04:05
 
 # Aside widget - Newest Comments
 newest_comments:
@@ -1297,7 +1300,7 @@ home_top:
 
 # 朋友圈配置
 friends_vue:
-  enable: true
+  enable: false
   # https://npm.elemecdn.com/anzhiyu-blog-static@1.0.0/js/friends_vue/index.js   /custom/friends-vue-1.0.0.js
   vue_js: /custom/friends-vue-1.1.2.js
   # https://geekswg-hexo-friends.vercel.app/ 部署方式 github+sqlite
@@ -1322,14 +1325,14 @@ console:
 # 51a统计配置  https://user.51.la/i/product
 # 使用方法，注册，创建应用，获取 网页统计ck，灵雀监控LingQueMonitorID。
 LA:
-  enable: true
+  enable: false
   ck: K2mM1vs6nmCWtp4K
   LingQueMonitorID: K2p99vzdYjQNd6HL
 
 # 标签卖萌
 diytitle:
   enable: true
-  leaveTitle: w(ﾟДﾟ)w 不要走！再看看嘛！
+  leaveTitle: w(ﾟДﾟ)w 不要走！
   backTitle: ♪(^∇^*)欢迎肥来！
 
 # 留言弹幕配置  注意 仅支持Twikoo
@@ -1413,7 +1416,7 @@ greetingBox:
 # 文章顶部ai摘要
 post_head_ai_description:
   enable: true
-  gptName: Geek
+  gptName: miku
   mode: local # 默认模式 可选值: tianli/local
   switchBtn: false # 可以配置是否显示切换按钮 以切换tianli/local
   btnLink: https://afdian.net/item/886a79d4db6711eda42a52540025c377
@@ -1435,7 +1438,7 @@ accesskey:
 # 友情链接顶部标题
 linkPageTop: 
   enable: true
-  title: 三人行必有我师焉
+  title: 三人行必有我师
 
 
 # 缩略图后缀 archive/tag/category 页面单独开启后缀
