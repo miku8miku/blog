@@ -9,7 +9,7 @@ ai:
     Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check
     [documentation](https://hexo.io/docs/)
   - 本文摘要由ChatGPT智能生成。
-link: 'https://geekswg.js.cool'
+# link: 'https://hexo.io/docs/'
 abbrlink: 3eeb
 date: 2011-01-13 16:00:00
 ---

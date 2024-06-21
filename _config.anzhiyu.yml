@@ -596,23 +596,23 @@ footer:
   socialBar:
     enable: true
     # /imgs/gif/cat.gif /imgs/gif/pinwheel-64.gif
-    centerImg: /imgs/gif/ghost.gif # 这里的逻辑是，当前设置 > 默认头像
+    centerImg: https://bu.dusays.com/2021/01/15/dcf30b34409bc.png # 这里的逻辑是，当前设置 > 默认头像
     left:
-      - title: 主页
-        link: https://home.geekswg.top
-        icon: anzhiyufont anzhiyu-icon-paper-plane
+      # - title: 主页
+      #   link: https://home.geekswg.top
+      #   icon: anzhiyufont anzhiyu-icon-paper-plane
       - title: email
         link: mailto:geekswg@qq.com
         icon: anzhiyufont anzhiyu-icon-envelope
-      - title: 微博
-        link: https://weibo.com/u/123456
-        icon: anzhiyufont anzhiyu-icon-weibo
+      # - title: 微博
+      #   link: https://weibo.com/u/123456
+      #   icon: anzhiyufont anzhiyu-icon-weibo
       #- title: facebook
       #  link: https://www.facebook.com/profile.php?id=100092208016288&sk=about
       #  icon: anzhiyufont anzhiyu-icon-facebook1
     right:
       - title: Github
-        link: https://github.com/geekswg
+        link: https://github.com/miku8miku
         icon: anzhiyufont anzhiyu-icon-github
       - title: Bilibili
         link: https://space.bilibili.com/39865904
