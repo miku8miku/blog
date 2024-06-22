@@ -20,7 +20,7 @@ menu:
     分类: /categories/ || anzhiyu-icon-shapes
     标签: /tags/ || anzhiyu-icon-tags
     统计: /charts/ || fa-solid fa-chart-pie fa-spin
-    文档: /anzhiyu-docs/ || anzhiyu-icon-book
+    # 文档: /anzhiyu-docs/ || anzhiyu-icon-book
     
 
 
@@ -39,7 +39,7 @@ menu:
     小空调: /air-condition/ || anzhiyu-icon-fan
     # 追番页: /bangumis/ || anzhiyu-icon-bilibili
   
-  音乐: /music/?id=8138088068&server=tencent || anzhiyu-icon-music
+  # 音乐: /music/?id=8138088068&server=tencent || anzhiyu-icon-music
 
   # 🌐: /sites/all-sites || anzhiyu-icon-shoe-prints1
 
