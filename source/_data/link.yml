@@ -1,50 +1,50 @@
 # 友链配置文件
 - class_name: Sites
-  class_desc: "Talk is Cheap, Show me the Code."
+  class_desc: "也无风雨也无晴"
   # 可以自行配置 hundredSuffix: "!w120"    flink_style:  telescopic || flexcard || anzhiyu
   flink_style: telescopic
   #hundredSuffix: "!w120"
   link_list:
     - name: 在线添加友联
-      link: https://github.com/gavinblog/blog-anzhiyu/edit/master/source/_data/link.yml
-      avatar: /imgs/avatar.webp
-      descr: 毕少侠在线添加友联地址 
-      siteshot: /imgs/avatar.webp
+      # link: https://github.com/gavinblog/blog-anzhiyu/edit/master/source/_data/link.yml
+      avatar: https://bu.dusays.com/2021/01/15/1e53477d4a20f.png
+      descr: KB在线添加友联地址 
+      siteshot: https://bu.dusays.com/2021/01/15/1e53477d4a20f.png
       color: vip
       tag: ADD
-    - name: 毕少侠-主页
-      link: https://home.geekswg.top/
-      avatar: /imgs/avatar.webp
-      descr: 毕少侠的主页By Vue。 
-      siteshot:  https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://home.geekswg.top/ #/imgs/default-cover.webp
+    - name: KB-主页
+      # link: https://home.geekswg.top/
+      avatar: https://bu.dusays.com/2021/01/15/bd855b8bd988f.png
+      descr: KB的主页By Vue。 
+      siteshot:  https://bu.dusays.com/2021/01/15/bd855b8bd988f.png
       #color: vip
       tag: Home
-    - name: 毕少侠-Hugo
-      link: https://geekswg.js.cool/
-      avatar: /imgs/avatar.webp
-      descr: 毕少侠也在江湖，毕少侠的主站，由Hugo驱动，Fiixt主题。GitHub-Pages托管
-      siteshot: https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://geekswg.js.cool/
+    - name: KB-Hugo
+      # link: https://geekswg.js.cool/
+      avatar: https://bu.dusays.com/2021/01/15/97f51c0517fef.png
+      descr: GitHub-Pages托管
+      siteshot: https://bu.dusays.com/2021/01/15/97f51c0517fef.png
       color: vip
       tag: Hugo
-    - name: 毕少侠-Hexo
-      link: https://hexo.geekswg.top/
-      avatar: /imgs/t1.webp
-      descr: 毕少侠也在江湖，毕少侠的主站，由Hexo驱动，Anzhiyu主题。 
-      siteshot: https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://hexo.geekswg.top/ #/imgs/default-cover.webp
+    - name: KB-Hexo
+      # link: 
+      avatar: https://bu.dusays.com/2021/01/15/2916c8cef70af.png
+      descr: 由Hexo驱动，Anzhiyu主题。 
+      siteshot: https://bu.dusays.com/2021/01/15/2916c8cef70af.png
       color: speed
       tag: Hexo
-    - name: 毕少侠-导航
-      link: https://nav.geekswg.top/
-      avatar: /imgs/t1.webp
-      descr: 毕少侠也导航 Powered By Hugo。 
-      siteshot: https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://nav.geekswg.top/
+    - name: KB-导航
+      # link: https://nav.geekswg.top/
+      avatar: https://bu.dusays.com/2021/01/15/9dd8a4ad6c014.png
+      descr: 导航 Powered By Hugo。 
+      siteshot: https://bu.dusays.com/2021/01/15/9dd8a4ad6c014.png
       color: vip
       tag: Hugo
-    - name: 毕少侠-监控
-      link: https://status.geekswg.top/
-      avatar: /imgs/t1.webp
-      descr: 毕少侠也监控 Powered By Vue 
-      siteshot: https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://status.geekswg.top/
+    - name: KB-监控
+      # link: https://status.geekswg.top/
+      avatar: https://bu.dusays.com/2021/01/15/29415b3ad702f.png
+      descr: 监控 Powered By Vue 
+      siteshot: https://bu.dusays.com/2021/01/15/29415b3ad702f.png
       color: vip
       tag: Vue
     
