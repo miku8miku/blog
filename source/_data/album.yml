@@ -2,7 +2,7 @@
 - class_name: Demo1-Type1-样式1
   path_name: /album/album-1
   type: 1
-  description: 君不见黄河之水天上来，奔流到海不复回。🌇。
+  description: 君不见黄河之水天上来，奔流到海不复回。
   cover: /imgs/default/tm.png
   top_background: /imgs/default/tm.png
   
@@ -25,7 +25,6 @@
         - https://cdn.staticaly.com/gh/geekswg/static@main/imgs/qsmy/qsmy-12.webp
         - https://cdn.staticaly.com/gh/geekswg/static@main/imgs/qsmy/qsmy-13.webp
         - https://cdn.staticaly.com/gh/geekswg/static@main/imgs/qsmy/qsmy-14.webp
-        
         - https://cdn.staticaly.com/gh/geekswg/static@main/imgs/qsmy/qsmy-19.webp
     - date: 2022/10/26 01:00:00
       content: 天生我材必有用，千金散尽还复来。

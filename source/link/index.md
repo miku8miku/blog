@@ -5,7 +5,7 @@ date: 2023-04-13 13:34:33
 type: link # 友链页面
 ---
 
-## 我的友链
+<!-- ## 我的友链
 
 {% tabs test4 %}
 
@@ -32,9 +32,9 @@ type: link # 友链页面
 **名字@icon**
 <!-- endtab -->
 
-{% endtabs %}
+{% endtabs %} -->
 
-## 友情链接申请
+<!-- ## 友情链接申请
 
 * 博客名称: `毕少侠`
 * 博客地址: `https://hexo.geekswg.top/`
@@ -98,4 +98,4 @@ type: link # 友链页面
             twikooSubmit.style.overflow = "hidden";
         }
     }
-</script>
+</script> -->
