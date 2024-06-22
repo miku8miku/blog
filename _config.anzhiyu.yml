@@ -77,33 +77,33 @@ nav:
       item:
         - name: 在线工具
           link: https://tool.lu/
-          icon: /imgs/avatar.webp
+          icon: https://bu.dusays.com/2021/01/15/9dffeadb5180f.png
         - name: 免费图床-Picx
-          link: https://gavinblog.github.io/picx/#/upload
-          icon: /imgs/avatar.webp
+          link: https://gavinblog.github.io/picx/#/upload  #自己搭建的凸窗
+          icon: https://bu.dusays.com/2021/01/15/3352de022c475.png
     - title: AI大模型
       item:
         - name: ChatGPT
           link: https://chat.openai.com/
-          icon: /imgs/avatar.webp
+          icon: https://bu.dusays.com/2021/01/15/9ea7dfea95cf4.png
         - name: AutoChatGPT
           link: https://github.com/7flash/AutoChatGPT
-          icon: /imgs/avatar.webp
+          icon: https://bu.dusays.com/2021/01/15/d1c6f949758f3.png
         - name: Bing-图像创建者
           link: https://bing.com/create
-          icon: /imgs/avatar.webp
+          icon: https://bu.dusays.com/2021/01/15/32f3ba22ad4a5.png
         - name: Stable Diffusion Online
           link: https://stablediffusionweb.com/
-          icon: /imgs/avatar.webp
+          icon: https://bu.dusays.com/2021/01/15/419f76ab77d0c.png
         - name: 文心一言
           link: https://yiyan.baidu.com/
-          icon: /imgs/avatar.webp
+          icon: https://bu.dusays.com/2021/01/15/04105fc2e996c.png
         - name: 文心一格
           link: https://yige.baidu.com/
-          icon: /imgs/avatar.webp
+          icon: https://bu.dusays.com/2021/01/15/fd881908237ee.png
         - name: 讯飞星火
           link: https://xinghuo.xfyun.cn/
-          icon: /imgs/avatar.webp
+          icon: https://bu.dusays.com/2021/01/15/72754ca21b688.png
     
 # Code Blocks (代码相关)
 # --------------------------------------
@@ -192,7 +192,7 @@ favicon: /favicon.ico
 
 # Avatar (头像)
 avatar:
-  img: /imgs/avatar.webp
+  img: https://bu.dusays.com/2021/01/15/de0b46f01a053.png
   effect: true  # 头像一直旋转
 
 # Disable all banner image
@@ -201,11 +201,11 @@ disable_top_img: false
 # The banner image of home page
 # 首页图片，这里控制了，一图流的开关，BUG,false-不显示，配置图片后
 # 注意这里的值是 style="{}" {}这个值
-#index_img: "background:url(/imgs/t2.webp) no-repeat center;background-size:cover;"
-index_img: '/imgs/default-cover.webp'
+index_img: "background:url(/imgs/bg-main.webp) no-repeat center;background-size:cover;"
+# index_img: https://bu.dusays.com/2021/01/15/c824eadfe0153.png
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: /imgs/default-cover.webp
+default_top_img: https://bu.dusays.com/2021/01/15/c824eadfe0153.png
 
 # >=1.4.0移除
 # # The banner image of archive page
@@ -351,10 +351,10 @@ reward:
   coinAudio: /imgs/reward/aowu.m4a
   QR_code:
     - img: /imgs/reward/alipay.webp
-      link: https://geekswg.js.cool
+      link:
       text: alipay
     - img: /imgs/reward/wechat.webp
-      link: https://geekswg.js.cool
+      link: 
       text: wechat
 
 # Post edit 文章编辑
@@ -562,20 +562,21 @@ footer:
   custom_text:  # CopyRight @ geekswg 2006 ~ Now
   runtime:
     enable: true
-    launch_time: 06/20/2024 15:04:05 # 网站上线时间 go2006-01-02 03:04:05
-    work_img: /imgs/gif/cat.gif
+    launch_time: 06/20/2024 15:04:05 # 网站上线时间 
+    work_img: https://bu.dusays.com/2021/01/15/a3d81a0d0a19c.png
     #https://npm.elemecdn.com/anzhiyu-blog@2.0.4/img/badge/安知鱼-上班摸鱼中.svg
     work_description: 但行好事，莫问前程
-    offduty_img:  /imgs/gif/tree.gif # https://tool.lu/netcard/ /imgs/gif/yinyang.gif
+    offduty_img:  https://bu.dusays.com/2021/01/15/2ed466b049952.png # https://tool.lu/netcard/ /imgs/gif/yinyang.gif
     #https://npm.elemecdn.com/anzhiyu-blog@2.0.4/img/badge/安知鱼-下班啦.svg
     offduty_description: 天高任鸟飞，海阔凭鱼跃
   # 徽标部分配置项 https://shields.io/
   # https://img.shields.io/badge/CDN-jsDelivr-orange?style=flat&logo=jsDelivr
+  
   bdageitem:
     enable: true
     list:
-      - link: http://geekswg.js.cool/
-        shields: https://img.shields.io/badge/Blog-%E6%AF%95%E5%B0%91%E4%BE%A0-yellow
+      - link: 
+        shields: https://img.shields.io/badge/Blog-KB-yellow
         message: 主页
       - link: https://github.com/gavinblog/blog-anzhiyu
         shields: https://npm.elemecdn.com/anzhiyu-blog@2.1.5/img/badge/Source-Github.svg
@@ -593,7 +594,7 @@ footer:
         shields: https://npm.elemecdn.com/anzhiyu-blog@2.2.0/img/badge/Copyright-BY-NC-SA.svg
         message: 本站采用知识共享署名-非商业性使用-相同方式共享4.0国际许可协议进行许可
 
-  socialBar:
+  socialBar:  #底部导航栏
     enable: true
     # /imgs/gif/cat.gif /imgs/gif/pinwheel-64.gif
     centerImg: https://bu.dusays.com/2021/01/15/dcf30b34409bc.png # 这里的逻辑是，当前设置 > 默认头像
@@ -604,6 +605,9 @@ footer:
       - title: email
         link: mailto:geekswg@qq.com
         icon: anzhiyufont anzhiyu-icon-envelope
+      - title: Github
+        link: https://github.com/miku8miku
+        icon: anzhiyufont anzhiyu-icon-github
       # - title: 微博
       #   link: https://weibo.com/u/123456
       #   icon: anzhiyufont anzhiyu-icon-weibo
@@ -611,9 +615,6 @@ footer:
       #  link: https://www.facebook.com/profile.php?id=100092208016288&sk=about
       #  icon: anzhiyufont anzhiyu-icon-facebook1
     right:
-      - title: Github
-        link: https://github.com/miku8miku
-        icon: anzhiyufont anzhiyu-icon-github
       - title: Bilibili
         link: https://space.bilibili.com/39865904
         icon: anzhiyufont anzhiyu-icon-bilibili
@@ -626,8 +627,8 @@ footer:
     project:
       - title: 服务
         links:
-          - title: 51la统计
-            link: https://v6.51.la/
+          # - title: 51la统计
+          #   link: 
           - title: 十年之约
             link: https://www.foreverblog.cn/
           - title: 开往
@@ -635,11 +636,11 @@ footer:
       - title: 导航
         links:
           - title: 个人主页
-            link: https://home.geekswg.top
+            link: 
           - title: ChatGPT
-            link: https://chatgpt.geekswg.top
+            link: 
           - title: 站点监测
-            link: https://status.geekswg.top
+            link: 
       - title: 主题
         links:
           - title: 模板仓库
@@ -673,15 +674,15 @@ footer:
       link: /about
     
     linkList:
-      - link: https://home.geekswg.top
+      - link: 
         text: 主页 
-      - link: https://nav.geekswg.top
+      - link: 
         text: 导航
-      - link: https://github.com/gavinblog/blog-anzhiyu
+      - link: 
         text: 源码
-      - link: https://gavinblog.github.io/anzhiyu-docs/
+      - link: 
         text: 文档
-      - link: https://analytics.umami.is/share/oYFZ7f60BbLmKd6b/geekswg-hexo
+      - link: 
         text: 访客
       # - link: https://image.anheyu.com
       #   text: 图床
@@ -715,12 +716,12 @@ footer:
 # Baidu Analytics
 # https://tongji.baidu.com/web/welcome/login
 # https://tongji.baidu.com/main/setting/10000222384/home/site/getjs?siteId=19268804
-baidu_analytics: c78e148e63a5f161b51f3c05d3be3acb
+baidu_analytics: 
 
 # Google Analytics
 # https://analytics.google.com/analytics/web/
 # https://analytics.google.com/analytics/web/#/a273233182p383309901/admin/streams/table/
-google_analytics: G-MXDTZ2L2TY
+google_analytics: 
 
 # CNZZ Analytics
 # https://www.umeng.com/
@@ -733,7 +734,7 @@ cloudflare_analytics:
 # Microsoft Clarity
 # https://clarity.microsoft.com/
 # https://clarity.microsoft.com/projects
-microsoft_clarity: hhn2or4dz5
+microsoft_clarity: 
 
 # Advertisement
 # --------------------------------------
@@ -742,7 +743,7 @@ microsoft_clarity: hhn2or4dz5
 google_adsense:
   enable: false
   auto_ads: true
-  js: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+  js: 
   client:
   enable_page_level_ads: true
 
@@ -951,11 +952,11 @@ subtitle:
   # 如果关闭打字效果，subtitle 只会显示 sub 的第一行文字
   sub:
     - 莫笑少年江湖梦，谁不少年梦江湖。曾经年少立志三千里，如今踌躇百步无寸功。
-    - 懵懂半生，庸碌尘世中，转眼高堂皆白发，儿女蹒跚学堂中。碎银几两催人老。
+    - 欲买桂花同载酒，终不似，少年游。少年游，初学禅，犹带净瓶步入尘。 
     - 心仍少，皱纹却上眉目中，浮生醉酒回梦里。青春人依旧，只叹时光太匆匆！
 
 # Loading Animation (加载动画)
-preloader:
+preloader: #预加载界面
   enable: true
   # source
   # 1. fullpage-loading
@@ -965,7 +966,7 @@ preloader:
   # pace theme (see https://codebyzach.github.io/pace/)
   pace_css_url:
   # /imgs/avatar.webp # 自定义头像 /imgs/loading/loading.gif
-  avatar: /imgs/loading/loading-8.gif
+  avatar: /imgs/loading/loading-2.gif
 
 # aside (侧边栏)
 # --------------------------------------
@@ -1260,11 +1261,11 @@ envelope_comment:
 
 # 首页顶部相关配置
 home_top:
-  enable: true # 开关
+  enable: false # 开关
   timemode: date #date/updated
   title: 等风来
   subTitle: 不如追风去
-  siteText: 毕少侠也在江湖
+  siteText: KB也在江湖
   category:
     - name: 笔记
       path: /categories/notes/
@@ -1285,18 +1286,20 @@ home_top:
   default_descr: default_descr-default_descr
   
   swiper:
-    enable: false
+    enable: true
     #https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.css #swiper css依赖
     swiper_css: /custom/swiper/swiper.min.css #/custom/swiper/swiper-bundle-9.4.1.min.css
     #https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.js #swiper js依赖
     swiper_js: /custom/swiper/swiper-bundle-9.4.1.min.js #/custom/swiper/swiper-bundle-9.4.1.min.js
     swiper_init: /custom/swiper/swiper_init.js # swiper初始化方法
   # 首页轮播 与 swiper 二选一
-  banner:
-    tips: 春花秋月何时了，往事知多少。
-    title: 问君能有几多愁，恰似一江春水向东流。
-    image: /imgs/default/cover4.webp # /imgs/default/cover4.webp https://tool.lu/netcard/
-    link: https://home.geekswg.top
+
+
+  # banner:
+  #   tips: 春花秋月何时了，往事知多少。
+  #   title: 问君能有几多愁，恰似一江春水向东流。
+  #   image: /imgs/default/cover4.webp # /imgs/default/cover4.webp https://tool.lu/netcard/
+  #   link: https://home.geekswg.top
 
 # 朋友圈配置
 friends_vue:
